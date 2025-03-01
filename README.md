@@ -1,38 +1,34 @@
-<h1 align="center">Hi 👋, I'm Heriniana Rakotonirina</h1>
+## Hi, I'm Heriniaina Rak, a mobile developer
 
-<h3 align="left">Languages and Tools:</h3>
-<br align="left"> 
+### Technologies
+- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
+  </a> Flutter
+- <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="nestjs" width="20" height="20"/>
+  </a> Nest JS
+- <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/>
+  </a> Angular
 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+### Projects in Production
+- <a href="https://play.google.com/store/apps/details?id=com.ariary.app" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/heriniaina-rak.appspot.com/o/Projects_logo%2Fariary.png?alt=media&token=544cdd62-1c3d-408a-b62a-fbcbaab6d0c3" alt="Ariary" width="20" height="20"/>
+  </a> Ariary
+- <a href="https://play.google.com/store/apps/details?id=com.la_parole.app" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/heriniaina-rak.appspot.com/o/Projects_logo%2Fla_parole.png?alt=media&token=c43272ee-5727-43f1-8590-c31abdc3ede2" alt="La Parole" width="20" height="20"/>
+  </a> La Parole
+- <a href="https://play.google.com/store/apps/details?id=com.devinette.app" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/heriniaina-rak.appspot.com/o/Projects_logo%2Fdevinette.png?alt=media&token=f362cb8a-76b9-4696-ae73-2da326bae4b8" alt="Devinette" width="20" height="20"/>
+  </a> Devinette
+- <a href="https://play.google.com/store/apps/details?id=org.ugbm.sedera" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/heriniaina-rak.appspot.com/o/Projects_logo%2Fsedera.png?alt=media&token=8d2fe6b2-b6b8-46e4-9ec7-75713e836a50" alt="Sedera" width="20" height="20"/>
+  </a> Sedera
+- <a href="https://play.google.com/store/apps/details?id=com.msemada.app" target="_blank" rel="noreferrer">
+    <img src="https://firebasestorage.googleapis.com/v0/b/heriniaina-rak.appspot.com/o/Projects_logo%2Fmse.png?alt=media&token=32f99bf5-942e-4e2c-b9d2-98fd2ec5bb46" alt="MSE Mada" width="20" height="20"/>
+  </a> MSE Mada
 
-<br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.odoo.com" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg" alt="odoo" width="40" height="40"/> </a>
-
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
+### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heriniaina-rak&show_icons=true&locale=en" alt="heriniaina-rak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heriniaina-rak&" alt="heriniaina-rak" /></p>
-
-
-
