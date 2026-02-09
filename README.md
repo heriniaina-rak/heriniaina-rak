@@ -1,4 +1,4 @@
-## Hi, I'm Heriniaina Rak, a mobile developer
+## Hi, I'm Heriniaina Rak, a mobile developer (IOS/Android)
 
 ### Technologies
 - <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -7,9 +7,9 @@
 - <a href="https://nestjs.com" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="nestjs" width="20" height="20"/>
   </a> Nest JS
-- <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/>
-  </a> Angular
+- <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="20" height="20"/>
+  </a> Next.js
 
 ### Projects in Production
 - <a href="https://play.google.com/store/apps/details?id=com.ariary.app" target="_blank" rel="noreferrer">
@@ -29,6 +29,4 @@
   </a> MSE Mada
 
 ### GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heriniaina-rak&show_icons=true&locale=en" alt="heriniaina-rak" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heriniaina-rak&" alt="heriniaina-rak" /></p>
